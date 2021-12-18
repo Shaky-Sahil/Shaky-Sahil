@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaky-Sahil&show_icons=truecount_private=true&theme=radical)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaky-Sahil&show_icons=true&count_private=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaky-Sahil)](https://github.com/Shaky-Sahil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaky-Sahil&count_private=true)](https://github.com/Shaky-Sahil/github-readme-stats)
 
 
 <!--
