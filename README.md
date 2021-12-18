@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaky-Sahil&show_icons=true&theme=radical)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaky-Sahil&show_icons=truecount_private=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaky-Sahil)](https://github.com/Shaky-Sahil/github-readme-stats)
 
