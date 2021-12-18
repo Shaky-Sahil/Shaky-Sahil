@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaky-Sahil)](https://github.com/anuraghazra/github-readme-stats)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaky-Sahil&count_private=true)
 
 
 <!--
