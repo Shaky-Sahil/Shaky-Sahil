@@ -2,7 +2,7 @@
 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaky-Sahil&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Shaikh)](https://github.com/Shaky-Sahil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaky-Sahil)](https://github.com/Shaky-Sahil/github-readme-stats)
 
 
 <!--
